@@ -16,14 +16,6 @@ The Viva Presentation Management System is designed to streamline the process of
 
 - **Notification System**: Integrated email notifications keep all relevant parties informed about scheduled presentations, theme allocations, and any changes to the presentation schedule.
 
-## Technologies Used
-
-- **Front-end**: HTML, CSS, JavaScript, React.js
-
-- **Back-end**: Node.js, Express.js
-
-- **Database**: MongoDB
-
 ## Design Documents
 
 This repository contains the following design documents:
@@ -47,5 +39,3 @@ The Viva Presentation Management System is being developed using the following t
 - **Laravel API**: A PHP framework for building robust and scalable APIs.
 - **JWT (JSON Web Tokens)**: A standard for securely transmitting information between parties as a JSON object.
 - **MySQL Database**: A relational database management system for storing and retrieving data efficiently.
-
-
